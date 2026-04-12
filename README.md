@@ -27,7 +27,7 @@ I am a data analyst skilled in SQL, Python, and Power BI, focused on extracting 
 
 *Tools Used:* Power BI
 
-![Dashboard](coffee_dashboard.png)
+![Dashboard](coffee_dashboard.png.jpeg)
 
 
 ## 🛠 Skills
