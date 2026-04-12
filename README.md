@@ -13,7 +13,7 @@ I am a data analyst skilled in SQL, Python, and Power BI, focused on extracting 
 ### 2. Madhav E-commerce Dashboard (Power BI)
 - Built interactive dashboard
 - Visualized sales and customer insights
-- ![Dashboard](dashboard.png)
+- ![Dashboard](madhav_dashboard.png)
 
   ### 3. Coffee Shop Sales Dashboard (Power BI)
 
