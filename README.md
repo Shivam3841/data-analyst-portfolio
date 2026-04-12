@@ -11,9 +11,18 @@ I am a data analyst skilled in SQL, Python, and Power BI, focused on extracting 
 - Tools: Python, Pandas
 
 ### 2. Madhav E-commerce Dashboard (Power BI)
-- Built interactive dashboard
-- Visualized sales and customer insights
-- ![Dashboard](madhav_dashboard.png)
+
+- Built an interactive dashboard to analyze e-commerce sales performance  
+- Tracked key KPIs such as Total Amount, Profit, Quantity, and Average Order Value (AOV)  
+- Analyzed sales distribution across different states  
+- Identified top customers and their contribution to revenue  
+- Analyzed product categories like Clothing, Electronics, and Furniture  
+- Evaluated payment modes (COD, UPI, Credit Card, EMI)  
+- Analyzed monthly profit trends and identified loss-making periods  
+
+*Tools Used:* Power BI  
+
+![Dashboard](madhav_dashboard.png.jpeg)
 
   ### 3. Coffee Shop Sales Dashboard (Power BI)
 
